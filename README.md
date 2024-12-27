@@ -1,7 +1,7 @@
 ## Hi,there  ✌
 Here is Shawn, an undergraduate student in Northwest A&F University, majoring in 🪴🍋🍊Horticulture🌺🌿🍀.  
 
-My research interest is about bioinformatics & mathematical modeling in biology and horticulture.  
+My research interest is about Computer vision & Deep-Learning.
 
 **One day I could write useful code and projects like you!**  🥲
 <!--
