@@ -1,20 +1,9 @@
-## Hi,there  ✌
-Here is Shawn, an undergraduate student in Northwest A&F University, majoring in 🪴🍋🍊Horticulture🌺🌿🍀.  
+### Hi, I'm Shuai 👋
 
-My research interest is about Computer vision & Deep-Learning.
+🎓 MS in Software Engineering @ SUFE  
+🔬 Researching **3D Gaussian Splatting**, currently exploring **Reinforcement Learning** and **3D Computer Vision**  
+🎯 Aiming for an AI research lab  
+🛠️ Python · PyTorch · CUDA  
+🎮 Gaming & coding in spare time
 
-**One day I could write useful code and projects like you!**  🥲
-<!--
-**sleepy-shawn/sleepy-shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Always open to discussion on CV / VLM / RL research.
